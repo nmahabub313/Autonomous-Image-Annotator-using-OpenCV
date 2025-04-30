@@ -52,6 +52,4 @@ This project creates synthetic image datasets using realistic 3D models rendered
 2. **Upload to Colab or Local Folder**  
    Organize images into `images/train`.
 
-3. **Run Label Generation Script**  
-   ```bash
-   python generate_labels.py
+3. **Run Label Generation Notebook**  
